@@ -8,3 +8,4 @@ I am going to develop some APIs for our hardware and store the information into 
 
 ## Anything Blocking?
 Before I can start developing the APIs, I still need more information about what kind of input the sensors are sending.
+I am still learning how to use cache in Django.
