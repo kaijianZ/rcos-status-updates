@@ -1,6 +1,6 @@
 # Week3
 ## Last Week's Accomplishments
-We set up a AWS PostgreSQL database and create the tables. Keep developing the APIs.
+We set up a AWS PostgreSQL database and created the tables. And we are keep developing the APIs.
 (check the occupancy for all room on the same floor)
 
 ## This Week's Plan
