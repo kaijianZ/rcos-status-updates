@@ -1,4 +1,4 @@
-# Week3
+# Week4
 ## Last Week's Accomplishments
 We revised the checkOccupancy API to suit the front-end display. And we added some security measures just in case.
 
