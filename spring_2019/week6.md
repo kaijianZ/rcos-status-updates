@@ -1,4 +1,4 @@
-# Week5
+# Week 6
 ## Last Week's Accomplishments
 We developed a secret-key-based secruity system. Also we can now store the logs into the database.
 The front-end page is also online. So a basic monitor system is now available.
